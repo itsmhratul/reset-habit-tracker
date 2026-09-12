@@ -1,17 +1,7 @@
-# Reset Habit Tracker
+# Reset Habit Tracker v2
 
-A free, offline-first 30-day habit tracker designed around sleep, self-control, study, English speaking, exercise, and the five daily Salah.
+GitHub Pages-ready 30-day habit and Salah tracker.
 
-## Run locally
-Open `index.html` in a browser.
+Features: 5 Salah buttons, 11 daily habits, daily score, weekly progress, habit performance, 30-day history, daily notes, dark mode, offline storage, editable wake/sleep/water targets.
 
-## Publish with GitHub Pages
-1. Create a new GitHub repository.
-2. Upload all files in this folder.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`.
-6. Save. GitHub will give you a public website address.
-
-## Data
-Everything is stored locally in the browser with `localStorage`. No account or server is required.
+Upload all files to the repository root. Then GitHub: Settings → Pages → Deploy from a branch → main → / (root) → Save.
